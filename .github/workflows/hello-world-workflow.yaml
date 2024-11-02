@@ -1,5 +1,5 @@
 name: first-workflow
-on: [push]
+on: [push] # Push 이벤트가 트리거임
 
 jobs:
   shell-cmd-job:
